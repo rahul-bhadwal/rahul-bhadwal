@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahul-bhadwal
-- 🌱 I’m currently pursuing master of computer science from University of Wollongong (major in Big Data and Machine Learning).
+- 🌱 Currently working as Software Developer in University of Wollongong.
 - 💞️ I’m having more than 5 years of experience in Information Technology industry in Accenture.
 
 <!---
